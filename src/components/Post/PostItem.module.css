@@ -1,0 +1,13 @@
+.postItem {
+  margin-bottom: 20px;
+}
+
+.postTitle {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.postDescription {
+  font-size: 14px;
+  margin: 0;
+}

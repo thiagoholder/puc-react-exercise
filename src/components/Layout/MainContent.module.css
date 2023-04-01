@@ -1,0 +1,6 @@
+.mainContent {
+  background-color: white;
+  padding: 20px;
+  max-width: 80%; /* Define a largura máxima do MainContent igual ao Header */
+  margin: 0 auto;
+}

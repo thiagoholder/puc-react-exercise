@@ -1,0 +1,16 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+}
+
+.navLink {
+  text-decoration: none;
+  float: left;
+  padding: 10pt;
+  color: white;
+}
+
+.navbarContainer {
+  background-color: blue;
+}

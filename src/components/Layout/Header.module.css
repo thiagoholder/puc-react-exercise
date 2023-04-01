@@ -1,0 +1,45 @@
+.flexContainer {
+  display: flex;
+  align-items: center;
+}
+.navbarWrapper {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.header {
+  background-color: #0464b7;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  max-width: 80%;
+  margin: 0 auto;
+  border-radius: 10px 10px 0 0;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: 20px;
+}
+
+.contentTitle {
+  font-size: 18px;
+  color: white;
+  margin: 0;
+}
+
+.contentDescription {
+  font-size: 14px;
+  color: white;
+  margin: 0;
+}
+
+.logoImage {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
